@@ -1,1 +1,1 @@
-cout("Hello Nisha")
+cout<<"Hello Nisha">>
